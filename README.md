@@ -34,6 +34,9 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
+![Screenshot from 2021-07-14 06-53-22](https://user-images.githubusercontent.com/86461558/125632191-6f606707-e0ba-41c6-b047-dff8a568db81.png)
+
+
 -Set Navigation Goal
 
 1-Click the 2D Nav Goal button in the RViz menu.
