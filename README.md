@@ -32,4 +32,6 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 1-Click the 2D Nav Goal button in the RViz menu.
 
+![2d_nav_goal_button](https://user-images.githubusercontent.com/86461558/125630630-3ea0eb39-5310-4f2b-8afe-7ad4fb22fd59.png)
+
 2-Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing
