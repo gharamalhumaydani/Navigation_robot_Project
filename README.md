@@ -10,6 +10,9 @@ $ export TURTLEBOT3_MODEL=burger
 
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
+![Screenshot from 2021-07-14 00-37-55](https://user-images.githubusercontent.com/86461558/125631660-61610655-3a62-494e-8c19-2d512c285eb9.png)
+
+
 -Run Navigation Node
 
 $ export TURTLEBOT3_MODEL=burger
