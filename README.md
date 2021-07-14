@@ -43,4 +43,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 ![2d_nav_goal_button](https://user-images.githubusercontent.com/86461558/125630630-3ea0eb39-5310-4f2b-8afe-7ad4fb22fd59.png)
 
-2-Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing
+2-Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing.
+
+![Screenshot from 2021-07-14 06-54-47](https://user-images.githubusercontent.com/86461558/125632367-c0b6a0b9-0c3b-4d17-972e-4bdc3f360b71.png)
+
