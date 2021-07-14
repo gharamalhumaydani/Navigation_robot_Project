@@ -19,6 +19,9 @@ $ export TURTLEBOT3_MODEL=burger
 
 $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
+![navigation-startup](https://user-images.githubusercontent.com/86461558/125632838-b49fc91c-ac5a-484a-921f-d6877d9bdc1d.png)
+
+
 -Estimate Initial Pose
 
 1-Click the 2D Pose Estimate button in the RViz menu.
