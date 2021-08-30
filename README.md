@@ -1,6 +1,6 @@
 # Navigation_robot_Project
 
-This projectj ast  of how a robot can be more intelligent about its movement than the random walk of  .This is done using Ros in ubuntu 16.04. and with robots from Turtlebot (https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
+This projectj ast  of how a robot can be more intelligent about its movement than the random walk of  .This is done using Ros in ubuntu 16.04. and with robots from Turtlebot3 (https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
 
 1-Navigation Simulation:-
 
